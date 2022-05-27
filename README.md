@@ -6,16 +6,14 @@
   Java <br>
   Springboot <br>
   Kotlin <br>
-  SQL Server 17 <br>
+  SQL Server <br>
+  PowerBI Avançado
  </p>
  <hr>
 </div>
 
 
 <div>
- 
- 
- 
  
  <h4>  Listas de Exercicios </h4>
  <a href="https://wiki.python.org.br/EstruturaDeRepeticao"> Laços de Repetição. ✔
@@ -29,13 +27,13 @@
 
 <div align=center>
   <a href="https://github.com/nortonmanfrejr">  
-   <img 
+   <img align=center
         height="160em" 
         src="https://github-readme-stats.vercel.app/api?username=nortonmanfrejr&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"
         />
     
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortonmanfrejr&theme=maroongold"/>
+  <img align=center height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortonmanfrejr&theme=maroongold"/>
 </div>
   
   
