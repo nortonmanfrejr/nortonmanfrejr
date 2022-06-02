@@ -22,6 +22,7 @@
   <br>
  <a href="https://wiki.python.org.br/ExerciciosClasses"> Exercicios de Classe. ❌
   <br>
+  <a href="https://wiki.python.org.br/ExerciciosFuncoes"> Exercicios de Funções. ❌
  <hr>
  </div>
 
