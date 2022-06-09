@@ -20,11 +20,14 @@
   <br>
  <a href="https://wiki.python.org.br/ExerciciosListas"> Exercicios de Listas. ✔
   <br>
- <a href="https://wiki.python.org.br/ExerciciosClasses"> Exercicios de Classe. ❌
+ <a href="https://wiki.python.org.br/ExerciciosClasses"> Exercicios de Classe. ✔
   <br>
-  <a href="https://wiki.python.org.br/ExerciciosFuncoes"> Exercicios de Funções. ❌
- <hr>
+ <a href="https://wiki.python.org.br/ExerciciosFuncoes"> Exercicios de Funções. ✔
+  <br>
+ <a href ="https://github.com/nortonmanfrejr/estudoGUI"> GUIs com JavaFX. ✔
  </div>
+  
+  <hr>
 
 <div align=center>
   <a href="https://github.com/nortonmanfrejr">  
