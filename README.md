@@ -15,7 +15,7 @@
 
 <div>
  
- <h4>  Listas de Exercicios </h4>
+ <h4> Exercicios Realizados </h4>
  <a href="https://wiki.python.org.br/EstruturaDeRepeticao"> Laços de Repetição. ✔
   <br>
  <a href="https://wiki.python.org.br/ExerciciosListas"> Exercicios de Listas. ✔
