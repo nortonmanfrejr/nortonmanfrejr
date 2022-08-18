@@ -2,11 +2,11 @@
  <h1 align= center> 🔸 Norton Domingues Manfré 🔸 </h1> <br>
  <p> 
   Técnologo em Ciência de Dados 3º Periodo. <br>
-  Desenvolvedor Back-End em Formação. <br>
-  Java <br>
+  Desenvolvedor Back-End<br>
+  Java 8+<br>
   Springboot <br>
   Kotlin <br>
-  SQL Server <br>
+  MySQL e SQL Server <br>
   PowerBI Avançado
  </p>
  <hr>
