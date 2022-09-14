@@ -14,6 +14,8 @@
 
 
 <div>
+ <h4> Projetos </h4>
+ <a href="https://github.com/nortonmanfrejr/SistemaInventarioTI"> Big Daddy Inventory.
  
  <h4> Exercicios Realizados </h4>
  <a href="https://wiki.python.org.br/EstruturaDeRepeticao"> Laços de Repetição. ✔
