@@ -5,7 +5,7 @@
   Desenvolvedor Back-End<br>
   Java 11+ <br>
   Spring MVC<br>
-  Injeção de Depêndencia e Inversão de Controle<br><br>
+  Injeção de Depêndencia e Inversão de Controle<br>
   Design Patterns<br>
   Orientação a Objeto<br>
   Arquitetura REST<br>
