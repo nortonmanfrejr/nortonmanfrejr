@@ -3,11 +3,25 @@
  <p> 
   Técnologo em Ciência de Dados 3º Periodo. <br>
   Desenvolvedor Back-End<br>
-  Java 8+<br>
-  Springboot <br>
-  Kotlin <br>
-  MySQL e SQL Server <br>
-  PowerBI Avançado
+  Java 11+ <br>
+  Spring MVC<br>
+  Injeção de Depêndencia e Inversão de Controle<br><br>
+  Design Patterns<br>
+  Orientação a Objeto<br>
+  Arquitetura REST<br>
+  Swing<br>
+  JavaFX<br>
+  JPA Hibernate<br>
+  Maven<br>
+  JDBC<br>
+  Git<br>
+  SQL<br>
+  Power BI <br>
+  Pacote Office 365<br>
+
+  Active Directory<br>
+
+  Agora estudando arquitetura Ports & Adapters
  </p>
  <hr>
 </div>
