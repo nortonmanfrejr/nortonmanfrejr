@@ -40,7 +40,7 @@ Python Stacks
    
    <div>
   <a href="https://github.com/nortonmanfrejr">
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=nortonmanfrejr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="290em" src="https://github-readme-stats.vercel.app/api?username=nortonmanfrejr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    
    <img height="180em" width="400em" src="https://streak-stats.demolab.com?user=nortonmanfrejr&theme=dark"/>
    
