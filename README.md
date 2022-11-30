@@ -1,47 +1,36 @@
  <div>
  <h1 align= center> 🔸 Norton Domingues Manfré 🔸 </h1> <br>
- <p> 
-  Técnologo em Ciência de Dados 3º Periodo. <br>
-  Desenvolvedor Back-End<br>
-  Java 11+ <br>
-  Spring MVC<br>
-  Injeção de Depêndencia e Inversão de Controle<br>
-  Design Patterns<br>
-  Orientação a Objeto<br>
-  Arquitetura REST<br>
-  Swing<br>
-  JavaFX<br>
-  JPA Hibernate<br>
-  Maven<br>
-  JDBC<br>
-  Git<br>
-  SQL<br>
-  Power BI <br>
-  Pacote Office 365<br>
+ 
+ Estudante de Ciência de Dados na Universidade Estácio de Sá 4/5.
 
-  Active Directory<br>
+Principal Stacks
+- Linguagem de Programação: Java (Avançado), Python (Intermediario).
+- Banco de Dados: MySQL, NoSQL.
+- Padrões de Projetos: DDD (Domain-Driven Desing), SOLID, Ports & Adapters, Clean-code.
+- Versionamento: Git, Github.
+- Ferramentas: Docker e Kubernetes.
+- Sistemas Operacionais: Windows, MacOS.
+- Dashboard: Power BI
 
-  Agora estudando arquitetura Ports & Adapters
- </p>
+Java Stacks
+- Spring MVC.
+- Composição.
+- Swing e JavaFX.
+- JDBC.
+- Stream.api.
+- Maven Build.
+
+Python Stacks
+- Pandas
+- Sklearn
+ 
  <hr>
 </div>
 
 
 <div>
  <h4> Projetos </h4>
- <a href="https://github.com/nortonmanfrejr/Daddy-Storage-with-Swing"> Big Daddy Inventory.
- 
- <h4> Exercicios Realizados </h4>
- <a href="https://wiki.python.org.br/EstruturaDeRepeticao"> Laços de Repetição. ✔
-  <br>
- <a href="https://wiki.python.org.br/ExerciciosListas"> Exercicios de Listas. ✔
-  <br>
- <a href="https://wiki.python.org.br/ExerciciosClasses"> Exercicios de Classe. ✔
-  <br>
- <a href="https://wiki.python.org.br/ExerciciosFuncoes"> Exercicios de Funções. ✔
-  <br>
- <a href ="https://github.com/nortonmanfrejr/estudoGUI"> GUIs com JavaFX. ✔
- </div>
+ <a href="https://github.com/nortonmanfrejr/Daddy-Storage-with-Swing"> Daddy Storage. (Em andamento)
   
   <hr>
 
