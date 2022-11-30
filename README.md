@@ -1,5 +1,8 @@
- <div>
- <h1 align= center> 🔸 Norton Domingues Manfré 🔸 </h1> <br>
+<div align=center>
+ 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&width=800&lines=Ola%2C+seja+bem+vindo+ao+meu+github.;Eu+sou+Norton+Domingues+Manfr%C3%A9." alt="Typing SVG" /></a>
+ 
+ </div>
  
  Estudante de Ciência de Dados na Universidade Estácio de Sá 4/5.
 
@@ -31,19 +34,12 @@ Python Stacks
 <div>
  <h4> Projetos </h4>
  <a href="https://github.com/nortonmanfrejr/Daddy-Storage-with-Swing"> Daddy Storage. (Em andamento)
+<hr>
   
-  <hr>
-
-<div align=center>
-  <a href="https://github.com/nortonmanfrejr">  
-   <img align=center
-        height="160em" 
-        src="https://github-readme-stats.vercel.app/api?username=nortonmanfrejr&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"
-        />
-    
-    
-  <img align=center height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortonmanfrejr&theme=maroongold"/>
-</div>
-  
+  <div align=center>
+   
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+   
+  </div>
   
   ![Snake animation](https://github.com/nortonmanfrejr/nortonmanfrejr/blob/output/github-contribution-grid-snake.svg)
