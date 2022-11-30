@@ -35,15 +35,15 @@ Python Stacks
  <h4> Projetos </h4>
  <a href="https://github.com/nortonmanfrejr/Daddy-Storage-with-Swing"> Daddy Storage. (Em andamento)
 <hr>
-  
-  <div align=center>
+  </div>
    
-   <div>
+   <div align=center>
   <a href="https://github.com/nortonmanfrejr">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nortonmanfrejr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
      
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortonmanfrejr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortonmanfrejr&layout=compact&langs_count=7&theme=dark"/>
+   
+   <img height="220em" width="800em" src="https://streak-stats.demolab.com?user=nortonmanfrejr&theme=dark"/>
    
    </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nortonmanfrejr&theme=dark)](https://git.io/streak-stats)
+ 
