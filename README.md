@@ -4,12 +4,16 @@
  
  </div>
  
- Estudante de Ciência de Dados na Universidade Estácio de Sá 4/5.
+ Objetivos
+- Concluir o Técnologo em Ciência de Dados 12/2023. 
+- Iniciar Pós-Graduação em Engenharia de Software 01/2024.
+- Certificações AWS: Associate Developer.
+- Aprender mais sobre novas praticas e técnologias de desenvolvimento.
 
 Principal Stacks
 - Linguagem de Programação: Java (Avançado), Python (Intermediario).
 - Banco de Dados: MySQL, NoSQL.
-- Padrões de Projetos: DDD (Domain-Driven Desing), SOLID, Ports & Adapters, Clean-code.
+- Padrões de Projetos: DDD (Domain-Driven Desing), SOLID, Restful,Ports & Adapters, Clean-code.
 - Versionamento: Git, Github.
 - Ferramentas: Docker e Kubernetes.
 - Sistemas Operacionais: Windows, MacOS.
@@ -19,7 +23,8 @@ Java Stacks
 - Spring MVC.
 - Composição.
 - Swing e JavaFX.
-- JDBC.
+- JPA.
+- Hibernate.
 - Stream.api.
 - Maven Build.
 
@@ -27,9 +32,9 @@ Python Stacks
 - Pandas
 - Sklearn
  
- <hr>
 </div>
 
+<hr>
 
 <div>
  <h4> Projetos </h4>
