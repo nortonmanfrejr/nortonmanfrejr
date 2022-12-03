@@ -11,7 +11,7 @@
 - Aprender mais sobre novas praticas e técnologias de desenvolvimento.
 
 Principal Stacks
-- Linguagem de Programação: Java (Avançado), Python (Intermediario).
+- Linguagem de Programação: Java (Avançado), Python (Intermediario), Kotlin(Intermediario).
 - Banco de Dados: MySQL, NoSQL.
 - Padrões de Projetos: DDD (Domain-Driven Desing), SOLID, Restful,Ports & Adapters, Clean-code.
 - Versionamento: Git, Github.
