@@ -42,7 +42,9 @@ Python Stacks
 <div class="java-projects">
   <h4>Projetos Java</h4>
   <a href="https://github.com/nortonmanfrejr/Daddy-Storage-with-Swing"> Daddy Storage. (Em andamento) <br>
-  <a href="https://github.com/nortonmanfrejr/my-jdbc-tools"> my-jdbc-tools. (Indefinido)
+  <a href="https://github.com/nortonmanfrejr/my-jdbc-tools"> my-jdbc-tools. (undefined) <br>
+  <a href="https://github.com/nortonmanfrejr/my-swing-tools.git"> my-swing-tools. (undefined) <br>
+   
  </div>
  
  <div class="kotlin-projects">
