@@ -28,6 +28,9 @@ Java Stacks
 - Stream.api.
 - Maven Build.
 
+Kotlin Stacks.
+- null
+
 Python Stacks
 - Pandas
 - Sklearn
@@ -36,11 +39,21 @@ Python Stacks
 
 <hr>
 
-<div>
- <h4> Projetos </h4>
- <a href="https://github.com/nortonmanfrejr/Daddy-Storage-with-Swing"> Daddy Storage. (Em andamento)
-<hr>
-  </div>
+<div class="java-projects">
+  <h4>Projetos Java</h4>
+  <a href="https://github.com/nortonmanfrejr/Daddy-Storage-with-Swing"> Daddy Storage. (Em andamento) <br>
+  <a href="https://github.com/nortonmanfrejr/my-jdbc-tools"> my-jdbc-tools. (Indefinido)
+ </div>
+ 
+ <div class="kotlin-projects">
+  <h4>Projetos Kotlin</h4>
+  - null
+ </div>
+ 
+ <div class="py-projects">
+  <h4>Projetos Python</h4>
+  - null
+ </div>
    
    <div align=center>
   <a href="https://github.com/nortonmanfrejr">
