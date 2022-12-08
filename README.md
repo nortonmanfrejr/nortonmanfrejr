@@ -28,8 +28,10 @@ Java Stacks
 - Stream.api.
 - Maven Build.
 
+<!--
 Kotlin Stacks.
 - null
+-->
 
 Python Stacks
 - Pandas
