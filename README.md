@@ -3,13 +3,31 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&width=800&lines=Ola%2C+seja+bem+vindo+ao+meu+github.;Eu+sou+Norton+Domingues+Manfr%C3%A9." alt="Typing SVG" /></a>
  
  </div>
-  <div align=center>
+  <div align="center">
   <a href="https://github.com/nortonmanfrejr">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nortonmanfrejr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
      
    <!-- Most used programming languages -->
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortonmanfrejr&layout=compact&langs_count=7&theme=dark"/>
    
+
+<table width="100">
+<!--
+<tr><th>Projetos desenvolvidos em:</th> <th>Contate-me</th></tr>
+<tr>
+<td>
+<img width="30px" src="https://user-images.githubusercontent.com/93503496/179109018-cc9a7ed6-31e8-4b48-a6b6-424ae0d71cff.png"></img>
+<img width="30px" src="https://user-images.githubusercontent.com/93503496/179109369-f65b72e9-b819-426b-a942-a075cc80d88c.png"></img>
+<img width="30px" src="https://user-images.githubusercontent.com/93503496/179109578-584bba0e-dc9b-457b-a85e-9f71061eeb0f.png"></img>
+</td>
+-->
+<tr><th>Contate-me</th></tr>
+<td>
+ <a href="https://www.linkedin.com/in/norton-manfr%C3%A9-8a899b211/">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</td>
+</tr>
+</table>
 
  </div>
  
