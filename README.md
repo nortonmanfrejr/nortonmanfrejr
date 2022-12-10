@@ -40,7 +40,7 @@
 Principal Stacks <!-- Principais habilidades técnicas -->
 - Linguagem de Programação: Java (Avançado), Python (Intermediario), Kotlin(Intermediario). <!-- Conhecimentos Consideraveis -->
 - Banco de Dados: MySQL, NoSQL. <!-- Banco de dados que sou habituado, SGBDs não são considerado -->
-- Padrões de Projetos: DDD (Domain-Driven Desing), SOLID, Restful,Ports & Adapters, Clean-code, Microsserviços. <!-- Padrões de Projetos praticados -->
+- Padrões de Projetos: DDD (Domain-Driven Design), SOLID, Restful,Ports & Adapters, Clean-code, Microsserviços. <!-- Padrões de Projetos praticados -->
 - Versionamento: Git, Github. <!-- Versionamento de Código -->
 - Ferramentas: Docker e Kubernetes. <!-- Ferramentas de Conteiners utilizadas, OPENSHIFT esta para ser adicionada -->
 - Sistemas Operacionais: Windows, MacOS. <!-- Sistemas operacionais que sou habituado -->
@@ -56,7 +56,7 @@ Future Stacks
 
 Java Stacks
 - Spring MVC.
-- Composição.
+- Composição. <!-- Utilizado para implementar boas praticas de desenvolvimento, é comparavel a desnormalização de uma base de dados. -->
 - Swing e JavaFX. <!-- Interface Grafica, essencial para o desenvolvimento do toolkit my-swing-tools. -->
 - JPA. 
 - Hibernate.
