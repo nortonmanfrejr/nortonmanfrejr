@@ -91,16 +91,16 @@ Python Stacks
 
 <!--   
  <div class="web-projects">
-  <h4>Proje</h4>
+  <h4>Projetos Web</h4>
   - null
  </div> 
 --> 
-   
+ <hr>
    
 <div class="programming-exercises"> <!-- Lista de exercicios realizadas para praticar --> 
 <!-- all task from https://wiki.python.org.br/ListaDeExercicios references in a repository contains-->
+ <h4>Lista de Exercicios</h4>
  <a href="https://github.com/nortonmanfrejr/programming-exercises"> - Lista de Exercicios
-  <h4>Lista de Exercicios</h4>
 </div>
  <hr>
    
