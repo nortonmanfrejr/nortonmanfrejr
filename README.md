@@ -19,8 +19,12 @@
 			<td>
 			<a target="_blank" href="https://www.linkedin.com/in/norton-manfr%C3%A9-8a899b211/">
  			<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-			<!-- falta link para o whatsapp -->
-			<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"">
+			<a target="_blank" href="https://api.whatsapp.com/send/?phone=5511954938319&text=Ola%2C+eu+sou+Norton+e+como+eu+posso+ajuda-lo%3F&type=phone_number&app_absent=0">
+			<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+			<a target="_blank" href="https://t.me/nortonmanfrejr">
+			<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+			<a target="_blank" href="">
+			<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 			</td>
 		</tr>
 	</table>
@@ -78,13 +82,13 @@ Python Stacks
 			<th>Projetos Kotlin</th>
 		</tr>
 		<tr class="column1">
-			<td><a href="https://github.com/nortonmanfrejr/Daddy-Storage-with-Swing"> Daddy Storage. (Em andamento) <!-- enter in the repository --></td>
+			<td><a href="https://github.com/nortonmanfrejr/Daddy-Storage-with-Swing"> Daddy Storage <!-- enter in the repository --></td>
 		</tr>
 		<tr class="column2">
-			<td><a href="https://github.com/nortonmanfrejr/my-swing-tools.git"> my-swing-tools. (undefined) <!-- toolkit facilitador para desenvolver GUI Desktop --></td>	
+			<td><a href="https://github.com/nortonmanfrejr/my-swing-tools.git"> my-swing-tools <!-- toolkit facilitador para desenvolver GUI Desktop --></td>	
 		</tr>
 		<tr class="column3">
-			<td><a href="https://github.com/nortonmanfrejr/my-jdbc-tools"> my-jdbc-tools. (undefined)  <!-- toolkit facilitador para desenvolvimento com o JDBC --></td>
+			<td><a href="https://github.com/nortonmanfrejr/my-jdbc-tools"> my-jdbc-tools <!-- toolkit facilitador para desenvolvimento com o JDBC --></td>
 		</tr>
 	</table>
 </div>
