@@ -85,7 +85,7 @@ Python Stacks
 			<td><a href="https://github.com/nortonmanfrejr/Daddy-Storage-with-Swing"> Daddy Storage <!-- enter in the repository --></td>
 		</tr>
 		<tr class="column2">
-			<td><a href="https://github.com/nortonmanfrejr/my-swing-tools.git"> my-swing-tools <!-- toolkit facilitador para desenvolver GUI Desktop --></td>	
+			<td><a href="https://github.com/nortonmanfrejr/my-swing-tools.git"> my-swing-tools <!-- toolkit facilitador para desenvolver GUI Desktop --></td>
 		</tr>
 		<tr class="column3">
 			<td><a href="https://github.com/nortonmanfrejr/my-jdbc-tools"> my-jdbc-tools <!-- toolkit facilitador para desenvolvimento com o JDBC --></td>
