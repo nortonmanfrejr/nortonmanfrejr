@@ -1,9 +1,3 @@
-<div align="center" class="svg-header-welcome">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&width=800&lines=Ola%2C+seja+bem+vindo+ao+meu+github.;Eu+sou+Norton+Domingues+Manfr%C3%A9.">
-	</a>
-</div>
-
-<hr>
 
 <div align="center" class="stats-and-mostused">
 	<a href="https://github.com/nortonmanfrejr">
